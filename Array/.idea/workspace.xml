@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42eb9190-e875-416e-8e39-4e7c3939d704" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/BST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/BST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/JavaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/out/production/JavaProject/AAAAA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/out/production/JavaProject/BST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/out/production/JavaProject/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/out/production/JavaProject/DeadLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/out/production/JavaProject/META-INF/JavaProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/out/production/JavaProject/StaticStuff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/src/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/src/AAAAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/src/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/src/Sinletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/META-INF/LinkedList.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/a-tale-of-two-cities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/BSTMap$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/BSTMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/FileOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/LinkedListMap$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/LinkedListMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/pride-and-prejudice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/src/BSTMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/src/FileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/src/LinkedListMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/src/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/MaxHeap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/out/production/MaxHeap/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/out/production/MaxHeap/MaxHeep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/MaxHeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxHeep/src/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Play-with-Data-Structures-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Stack/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Stack/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Stack/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/LinkedListQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/LinkedListQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/LoopQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/untitled104/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/LoopQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/SegmentTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/DeadLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/META-INF/SegmentTree.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Merger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/SegmentTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/src/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/src/Merger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SegmentTree/src/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/Set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/a-tale-of-two-cities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/BST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/BSTSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/FileOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/LinkedListSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/Set.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/pride-and-prejudice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/BSTSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/FileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/LinkedListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/src/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/LinkedListStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/untitled104/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/hello-world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Array" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="24" />
+              <folding>
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/Main.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Array.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="285" />
+    <option name="y" value="8" />
+    <option name="width" value="1608" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Array" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Array" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Array" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42eb9190-e875-416e-8e39-4e7c3939d704" name="Default Changelist" comment="" />
+      <created>1591009242806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591009242806</updated>
+      <workItem from="1591009250098" duration="4392000" />
+      <workItem from="1591095710321" duration="4792000" />
+      <workItem from="1591101202999" duration="145000" />
+      <workItem from="1591101374782" duration="14000" />
+      <workItem from="1591101401538" duration="8000" />
+      <workItem from="1591190451162" duration="6000" />
+      <workItem from="1599276414128" duration="2316000" />
+      <workItem from="1599306926125" duration="7000" />
+      <workItem from="1608223322179" duration="1513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13193000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989059" visible="true" weight="0.14075068" />
+      <window_info id="Structure" order="1" sideWeight="0.5010941" side_tool="true" weight="0.26148796" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010941" side_tool="true" weight="0.26148796" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15207878" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.10722101" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6926346" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.10722101" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#1628#1629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ArrayStoreException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#1106#1107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Main.java" />
+    <entry file="file://$USER_HOME$/Desktop/Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
