@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Tesr {
+public class Test {
+    String branch = "test1";
 }
