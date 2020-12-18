@@ -3,8 +3,5 @@ public class Test {
 
     String string= "qifei";
 
-
-//    String ste = "qifei2ss";
-    String ste = "qifei1";
-
+    String ste = "qifei2ss";
 }
