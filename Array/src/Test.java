@@ -3,9 +3,14 @@ public class Test {
 
     String string= "qifei";
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 //    String ste = "qifei2ss";
     String ste = "qifei1";
->>>>>>> 604576fde52f55ecb9953de18b7e949bb17d8cbc
+
+//    String ste = "qifei2ss";
+    String ste = "qifei1";
+
+
 }
